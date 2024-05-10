@@ -1,0 +1,169 @@
+[
+    {
+    "id": 1,
+    "title": "Big Mac",
+    "price": 5,
+    "image": "/images/big-mac.jpg"
+   
+    },
+
+    {
+        "id": 2,
+        "title": "AirPods",
+        "price": 250,
+        "image": "/images/airpods.jpg"
+       
+    },
+
+    {
+        "id": 3,
+        "title": "Drone",
+        "price": 1000,
+        "image": "/images/drone.jpg"
+       
+    },
+
+    {
+        "id": 4,
+        "title": "Flip Flop",
+        "price": 10,
+        "image": "/images/flip-flops.jpg"
+     
+    },
+
+    {
+        "id": 5,
+        "title": "Video Game",
+        "price": 350,
+        "image": "/images/video-game.jpg"
+        
+    },
+
+    {
+        "id": 6,
+        "title": "Smart Phone",
+        "price": 750,
+        "image": "/images/smartphone.jpg"
+        
+    },
+
+    {
+        "id": 7,
+        "title": "Netflix",
+        "price": 150,
+        "image": "/images/year-of-netflix.jpg"
+        
+    },
+
+    {
+        "id": 8,
+        "title": "Movie Ticket",
+        "price": 75,
+        "image": "/images/movie-ticket.jpg"
+    
+    },
+
+    {
+        "id": 9,
+        "title": "Tesla",
+        "price": 75000,
+        "image": "/images/tesla.jpg"
+       
+    },
+
+    {
+        "id": 10,
+        "title": "M1 Abrams",
+        "price": 1000000,
+        "image": "/images/m1-abrams.jpg"
+      
+    },
+
+    {
+        "id": 11,
+        "title": "Rolex",
+        "price": 25000,
+        "image": "/images/rolex.jpg"
+    
+    },
+
+    {
+        "id": 12,
+        "title": "Ferrari",
+        "price": 1500000,
+        "image": "/images/ferrari.jpg"
+       
+    },
+
+    {
+        "id": 13,
+        "title": "Yacht",
+        "price": 2100000,
+        "image": "/images/yacht.jpg"
+        
+    },
+
+    {
+        "id": 14,
+        "title": "Mona Lisa",
+        "price": 78000000,
+        "image": "/images/mona-lisa.jpg"
+      
+    },
+
+    {
+        "id": 15,
+        "title": "Monster Truck",
+        "price": 500000,
+        "image": "/images/monster-truck.jpg"
+       
+    },
+
+    {
+        "id": 16,
+        "title": "Gold Bar",
+        "price": 700000,
+        "image": "/images/gold-bar.jpg"
+    
+    },
+
+    {
+        "id": 17,
+        "title": "Amazon Echo",
+        "price": 5000,
+        "image": "/images/amazon-echo.jpg"
+      
+    },
+
+    {
+        "id": 18,
+        "title": "Book",
+        "price": 25,
+        "image": "/images/book.jpg" 
+        
+    },
+
+    {
+        "id": 19,
+        "title": "Designer Handbag",
+        "price": 35000,
+        "image": "/images/designer-handbag.jpg"
+        
+    },
+
+    {
+        "id": 20,
+        "title": "NBA Team",
+        "price": 250000000,
+        "image": "/images/nba-team.jpg"
+       
+    },
+
+    {
+        "id": 21,
+        "title": "Boeing 747",
+        "price": 2000000,
+        "image": "/images/boeing-747.jpg"
+     
+    }
+]
